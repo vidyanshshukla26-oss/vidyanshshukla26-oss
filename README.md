@@ -59,7 +59,7 @@ Feel free to reach out to me through:
 
 - [LinkedIn](https://www.linkedin.com/in/vidyansh)  
 - [GitHub](https://github.com/vidyansh)  
-- Email: vidyansh@example.com
+- Email: shuklavidyansh26@gmail.com
 
 ---
 
