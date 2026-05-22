@@ -16,9 +16,12 @@ I’m driven by the challenge of transforming creative concepts into tangible ou
 
 I have experience working with the following technologies:
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Java, C
-- **Tools:** Git, VS Code, Postman, Node.js
+- **Languages:** Java, JavaScript, C
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman, NPM
+- **Concepts:** Object-Oriented Programming (OOP), REST APIs, Data Structures & Algorithms
 
 ---
 
