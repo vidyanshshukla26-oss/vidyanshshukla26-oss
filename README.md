@@ -16,7 +16,7 @@ I’m driven by the challenge of transforming creative concepts into tangible ou
 
 I have experience working with the following technologies:
 
-- **Languages:** Java, JavaScript, C
+- **Languages:** Java, JavaScript, C, Python
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
