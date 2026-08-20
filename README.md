@@ -19,7 +19,7 @@ I have experience working with the following technologies:
 - **Languages:** Java, JavaScript, C, Python
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB, SQL
 - **Tools:** Git, GitHub, Postman, NPM, EXPO GO
 - **Concepts:** Object-Oriented Programming (OOP), REST APIs, Data Structures & Algorithms
 
