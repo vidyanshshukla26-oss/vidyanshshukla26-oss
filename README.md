@@ -40,7 +40,7 @@ I have experience working with the following technologies:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin864&layout=compact&theme=tokyonight" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyanshshukla26-oss&layout=compact&theme=tokyonight" height="150px" />
 </p>
 
 ---
