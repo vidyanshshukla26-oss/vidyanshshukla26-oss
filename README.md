@@ -32,6 +32,11 @@ I have experience working with the following technologies:
 
 ---
 
+## Github Streak
+
+-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+
+---
 ## 🌱 Current Focus
 
 - Enhancing my skills in **JavaScript**, **React**, and **Node.js**.
