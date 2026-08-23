@@ -35,8 +35,8 @@ I have experience working with the following technologies:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin864&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin864&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vidyanshshukla26-oss&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?vidyanshshukla26-oss&theme=tokyonight" height="170px" />
 </p>
 
 <p align="center">
