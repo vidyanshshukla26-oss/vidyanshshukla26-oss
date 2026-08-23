@@ -9,7 +9,9 @@ I recently am Open-Source Contributor at GirlScript Summer of Code, working on m
 Check out my [coding portfolio!](https://visionary-wisp-0cdae6.netlify.app)
 
 ## 🌐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyansh-shukla-595a46375)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://visionary-wisp-0cdae6.netlify.app)
 
 # 💻 Tech Stack:
 Languages: 
