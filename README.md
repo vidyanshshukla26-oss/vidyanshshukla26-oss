@@ -32,9 +32,16 @@ I have experience working with the following technologies:
 
 ---
 
-## Github Streak
+## 📊 GitHub Analytics
 
--[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin864&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin864&theme=tokyonight" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin864&layout=compact&theme=tokyonight" height="150px" />
+</p>
 
 ---
 ## 🌱 Current Focus
