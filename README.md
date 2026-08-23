@@ -1,81 +1,46 @@
-# Vidyansh | Engineering Student | Developer
+<h1 align="center">Hi 👋 I'm Vidyansh Shukla </h1>
+<h3 align="center">A full-stack software engineer from India</h3>
 
-Hello! I'm **Vidyansh**, an engineering student based in **India** with a passion for **building innovative solutions**.
+# 💫 About Me:
+I am a second-year Computer Engineering student at Narula Institute of Technology, with experience across full-stack development, automated testing pipelines and cloud infrastructure. 
 
----
+I recently am Open-Source Contributor at GirlScript Summer of Code, working on multiple projects and creating multiple AI Agents in Smartly Infra(collabotrated with GirlScript Summer of Code).
+  
+Check out my [coding portfolio!](visionary-wisp-0cdae6.netlify.app)
 
-## 🚀 About Me
+## 🌐 Connect with me:
+[![LinkedIn](www.linkedin.com/in/vidyansh-shukla-595a46375)
 
-I am a proactive and problem-solving developer who thrives on turning ideas into functional, impactful products. My focus is on building with purpose and constantly improving my skills through hands-on experience. 
+# 💻 Tech Stack:
+Languages: 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-I’m driven by the challenge of transforming creative concepts into tangible outcomes, and I am always eager to learn new technologies and frameworks.
+Developer Tools: 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
----
+Technologies/Frameworks: 
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🛠️ Technical Skills
 
-I have experience working with the following technologies:
 
-- **Languages:** Java, JavaScript, C, Python
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, SQL
-- **Tools:** Git, GitHub, Postman, NPM, EXPO GO
-- **Concepts:** Object-Oriented Programming (OOP), REST APIs, Data Structures & Algorithms
 
----
 
-## 🧑‍💻 Projects & Contributions
+<!--
+**wasifsomji/wasifsomji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+Languages: Python Java SQL HTML5 CSS JavaScript C VHDL
 
-- **Personal Projects:** I’ve developed a variety of personal projects that range from simple web applications to more complex solutions involving real-time features and APIs.
-- **Open Source:** Actively contributing to open-source projects to collaborate with other developers and improve my coding practices.
+Developer Tools: Postman, Git
 
----
+Libraries/Frameworks: AWS ReactJS PostgreSQL Spring Boot NodeJS Azure Docker Drools
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidyanshshukla26-oss&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?vidyanshshukla26-oss&theme=tokyonight" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyanshshukla26-oss&layout=compact&theme=tokyonight" height="150px" />
-</p>
-
----
-## 🌱 Current Focus
-
-- Enhancing my skills in **JavaScript**, **React**, and **Node.js**.
-- Exploring **cloud technologies** and **machine learning**.
-- Learning more about **design patterns** and **software architecture** to build scalable, efficient solutions.
-
----
-
-## 📚 Education
-
-Currently pursuing a degree in **Engineering** with a focus on **Software Development**.
-
----
-
-## 🏀 Outside of Coding
-
-When I'm not coding, you can find me:
-
-- Watching *One Piece* and exploring anime 🏴‍☠️
-- Playing basketball to keep active 🏀
-- Enjoying a cup of espresso or tea ☕ 
-
----
-
-## 📫 Get in Touch
-
-Feel free to reach out to me through:
-
-- [LinkedIn](https://www.linkedin.com/in/vidyansh)  
-- [GitHub](https://github.com/vidyansh)  
-- Email: shuklavidyansh26@gmail.com
-
----
-
-Looking forward to collaborating with like-minded developers and professionals to solve real-world problems!
