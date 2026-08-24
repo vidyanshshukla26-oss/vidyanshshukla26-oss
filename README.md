@@ -12,6 +12,7 @@ Check out my [coding portfolio!](https://visionary-wisp-0cdae6.netlify.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyansh-shukla-595a46375)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://visionary-wisp-0cdae6.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavidyansh26@gmail.com)
 
 # 💻 Tech Stack:
 Languages: 
