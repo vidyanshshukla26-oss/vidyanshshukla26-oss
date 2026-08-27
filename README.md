@@ -6,12 +6,12 @@ I am a second-year Computer Engineering student at Narula Institute of Technolog
 
 I recently am Open-Source Contributor at GirlScript Summer of Code, working on multiple projects and creating multiple AI Agents in Smartly Infra(collabotrated with GirlScript Summer of Code).
 
-Check out my [coding portfolio!](https://visionary-wisp-0cdae6.netlify.app)
+Check out my [coding portfolio!](https://vidyanshshukla.netlify.app)
 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyansh-shukla-595a46375)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://visionary-wisp-0cdae6.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://vidyanshshukla.netlify.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklavidyansh26@gmail.com)
 
 # 💻 Tech Stack:
