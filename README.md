@@ -39,7 +39,11 @@ Technologies/Frameworks:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+## ⚡ Quick Facts
+- 🔭 **Currently working on:** AI Agents with Smartly Infra
+- 🌱 **Learning:** TypeScript, System Design, and Docker workflows
+- 💬 **Ask me about:** React, Node.js, REST APIs, and Prompt Engineering
+- ⚡ **Fun Fact:** Active contributor in GirlScript Summer of Code
 
 
 
