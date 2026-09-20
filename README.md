@@ -2,7 +2,7 @@
 <h3 align="center">An Engineering Student from India</h3>
 
 ## 💫 About Me
-I am a second-year Computer Engineering student at Narula Institute of Technology, with experience in full-stack development, automated testing pipelines, and cloud infrastructure. 
+I am a second-year Information Technology student at Narula Institute of Technology, with experience in full-stack development, automated testing pipelines, and cloud infrastructure. 
 
 I am an **Open-Source Contributor at GirlScript Summer of Code**, building AI Agents for Smartly Infra in collaboration with GSSoC.
 
