@@ -4,7 +4,7 @@
 ## 💫 About Me
 I am a second-year Information Technology student at Narula Institute of Technology, with experience in full-stack development, automated testing pipelines, and cloud infrastructure. 
 
-I am an **Open-Source Contributor at GirlScript Summer of Code**, building AI Agents for Smartly Infra in collaboration with GSSoC.
+I am an **Open-Source Contributor at GirlScript Summer of Code**(GSSoC), building AI Agents for Smartly Infra in collaboration with GSSoC.
 
 - 🔭 **Currently working on:** AI Agents & Cloud-native applications
 - 🌱 **Currently learning:** Advanced System Design & DevOps
