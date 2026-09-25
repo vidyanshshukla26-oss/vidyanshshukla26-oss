@@ -8,7 +8,7 @@ I am an **Open-Source Contributor at GirlScript Summer of Code**(GSSoC), buildin
 
 - 🔭 **Currently working on:** AI Agents & Cloud-native applications
 - 🌱 **Currently learning:** Advanced System Design & DevOps
-- 💬 **Ask me about:** Java, React, Node.js, and Cloud Infrastructure
+- 💬 **Ask me about:** Java, React.js, Node.js, and Cloud Infrastructure
 - 🔗 **Portfolio:** [vidyanshshukla.netlify.app](https://vidyanshshukla.netlify.app)
 
 ---
