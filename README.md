@@ -50,3 +50,12 @@ I am an **Open-Source Contributor at GirlScript Summer of Code**(GSSoC), buildin
 
 ---
 
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidyanshshukla26-oss&theme=dark&hide_border=true" width="98%" />
+</p>
