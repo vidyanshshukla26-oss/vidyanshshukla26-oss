@@ -50,10 +50,6 @@ I am an **Open-Source Contributor at GirlScript Summer of Code**(GSSoC), buildin
 
 ---
 
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
