@@ -11,6 +11,14 @@ I am an **Open-Source Contributor at GirlScript Summer of Code**(GSSoC), buildin
 - 💬 **Ask me about:** Java, React.js, Node.js, and Cloud Infrastructure
 - 🔗 **Portfolio:** [vidyanshshukla.netlify.app](https://vidyanshshukla.netlify.app)
 
+<img width="15%" height="10%" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/89fc62a8-da63-4353-a677-0de976dec3bd" />
+<img width="15%" height="10%" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/0d5858df-8d43-45f9-8911-c62dde4bdaff" />
+<img width="15%" height="10%" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/4e7e1a46-de2e-4197-b79a-d08ae4776d60" />
+<img width="15%" height="10%" alt="gssoc-badge-profile_complete" src="https://github.com/user-attachments/assets/fec62509-2a95-4b90-96ae-ff328325f007" />
+<img width="15%" height="10%" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/9d3d531a-9ff8-4664-8efc-fdfeaa0a1448" />
+<img width="15%" height="10%" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/26ae9621-feea-4b29-91d2-b0562137af78" />
+
+
 ---
 
 ## 🌐 Connect with me
