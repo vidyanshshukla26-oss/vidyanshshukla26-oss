@@ -7,7 +7,7 @@ I am a sophomore Information Technology student at Narula Institute of Technolog
 I am an **Open-Source Contributor at GirlScript Summer of Code**(GSSoC), building AI Agents for Smartly Infra in collaboration with GSSoC.
 
 - 🔭 **Currently working on:** AI Agents & Cloud-native applications
-- 🌱 **Currently learning:** Advanced System Design & DevOps
+- 🌱 **Currently learning:** Advanced System Design & AI Engineering
 - 💬 **Ask me about:** Java, React.js, Node.js, and Cloud Infrastructure
 - 🔗 **Portfolio:** [vidyanshshukla.netlify.app](https://vidyanshshukla.netlify.app)
 
